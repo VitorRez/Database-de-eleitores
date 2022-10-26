@@ -1,9 +1,1 @@
-Nome,chave-pub,cpf
-Vitor,0,12373075628
-jorge,1,12345678900
-lucas,2,23456789001
-mateus,3,34567890012
-carlos,4,45678900123
-robson,5,56789001234
-geraldo,6,67890012345
-carmo,7,78900123456
+nome,cpf,unidade,chave_pub,validade,candidato,datai,dataf,horai,horaf,num_votos
