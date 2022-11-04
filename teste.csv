@@ -1,1 +1,11 @@
-nome,cpf,unidade,chave_pub,validade,candidato,datai,dataf,horai,horaf,num_votos
+nome,cpf,unidade,chave_pub,validade,candidato,data,horai,horaf,num_votos
+vitor,12373075628,1,b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqYrl9jyzGr5a8HoysyYz\n/9YAReiftWlGoEqeCQK+Q9iT/79fYDfhbOpSIRMuw04N0Va8DJ53YYbpeqv9M8f3\ncQbGbupUQf+9K9aioWR8h0K/iZchq4FqZ8+cBCrwI+GExfzDwouytuMB70g1tweI\nr07aDDmR+zmw8gJ3K3cIk/ekikbjCC/VlsuVKiqk+aRAPQ8/so4mpjJi7yalcHoo\n/NHeczNbVPkiRObK2yCVJNZ0BGsxrMj9s5lqTabIAqZuEzN0wHxmEoJ62RTTn7ax\n0gpBvcBE9w8om/oqnwqzsgH/wJ1O2Mz7bwgPoMzehocRncIiv3lnhNupuymyb/UP\ntQIDAQAB\n-----END PUBLIC KEY-----',0,0,0,0,0
+jorge,12345678900,1,b'-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyU9bK/PqHEyU2NOc+z1O\nqOKTci2ss171czNWmevL6YINgaVBclpT0/1073S7D8P37HxKAnpQZKnasYHo00T3\nsREiMUZ+uL2t3Jlss9yqn1J/nB5Yfb1CjxaVrHeD7DL+k2qKfmOc9SnXJ9o6S1Vv\naWkReX3eFdBxUH2M21j+LovJQJXWEXqWLKFtiehv02sSk9bmLAxyzfBzAUmZvPSC\ndZwncCrYMenKF+r8SwqKeMvMPiRbf80n9C0JuO+58Ha2exzUSzf8d9erMtSdIW8S\nfRSFnvYbUKmG3CVDf6OW4iUQuaNq1e4pH8Zgd345fsRKOz2MoSi/QfE8S7u7Fskk\nvQIDAQAB\n-----END PUBLIC KEY-----',0,0,0,0,0
+mateus,23456789001,1,0,1,0,0,0,0
+lucas,34567890012,1,0,1,0,0,0,0
+carlos,45678900123,1,0,1,0,0,0,0
+matias,56789001234,1,0,1,1,0,0,0
+geraldo,67890012345,1,0,1,0,0,0,0
+maria,78900123456,1,0,1,0,0,0,0
+joana,89001234567,1,0,1,0,0,0,0
+carla,90012345678,1,0,1,1,0,0,0
